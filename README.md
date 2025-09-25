@@ -103,7 +103,8 @@ Blockchain technology represents a paradigm shift in how we record, verify, and 
 
 ## Bar chart:
 
-<img width="2400" height="1600" alt="image" src="https://github.com/user-attachments/assets/3c2eae44-5011-4b09-829b-88af34b9f272" />
+<img width="2000" height="1200" alt="EX02_results_barchart" src="https://github.com/user-attachments/assets/2eb9cfd9-c585-47bb-a7c0-4b83d16f1f3c" />
+
 
 
 ## **Result**
